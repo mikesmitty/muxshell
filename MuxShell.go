@@ -1,6 +1,6 @@
 package muxshell
 
-// Originally based off http://stackoverflow.com/questions/24440193
+// Originally based off http://stackoverflow.com/a/24441190
 // Original code licensed CC-BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
 
 import (
